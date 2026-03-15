@@ -27,3 +27,4 @@ Compose UI - 2 (151 ~ 207)
 5. Compose UI 1 - https://www.notion.so/4-Compose-UI-1-301179f094d28044ada4fb2118a95188?source=copy_link
 6. Compose UI 2 - https://www.notion.so/4-Compose-UI-2-30f179f094d2808ba165fa58d2e53715?source=copy_link
 7. 상태 스냅샷 시스템 - https://www.notion.so/5-State-snapshot-system-31c179f094d280b58003ce396b3893c1?source=copy_link
+8. 이펙트 및 이펙트 핸들러 - https://www.notion.so/6-324179f094d280be9e95c19778284892?source=copy_link
